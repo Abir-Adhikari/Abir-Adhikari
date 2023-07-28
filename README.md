@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">Web Developer | Data Analyst | ML Engineer | Learner</h3>
+<h3 align="center">Web Developer | Data Analyst | ML Engineer | Tech Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="abir-adhikari" /> </p>
 
@@ -13,10 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abir adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir adhikari" height="30" width="40" /></a>
-<a href="https://kaggle.com/abir adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abir adhikari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abir adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abir adhikari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abir_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abir_2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
